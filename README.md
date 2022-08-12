@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A frontend developer from İzmir</h3>
+<h3 align="center">A Frontend Developer from İzmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertozkan35&label=Profile%20views&color=0e75b6&style=flat" alt="mertozkan35" /> </p>
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 👨‍💻 All of my projects are available at [https://startling-puppy-e55af3.netlify.app/](https://startling-puppy-e55af3.netlify.app/)
 
 - 📫 How to reach me **mertozkan.296@gmail.com**
 
