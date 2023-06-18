@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A Frontend Developer from İzmir</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertozkan35&label=Profile%20views&color=0e75b6&style=flat" alt="mertozkan35" /> </p>
 
-- 🌱 I’m currently learning **Javascript and React**
+
 
 
 - 📫 How to reach me **mertozkan.296@gmail.com**
